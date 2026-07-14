@@ -1,6 +1,6 @@
 # Detecção de Anomalias em Sensores Industriais
 
-> **Observação:** Este é um README base contendo a estrutura solicitada.
+
 
 ## 1. Descrição
 
