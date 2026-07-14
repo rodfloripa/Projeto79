@@ -222,12 +222,11 @@ Observa-se que o RMS da vibração foi significativamente mais informativo do qu
 <p align="justify">
 Também é importante destacar que, em ambientes industriais reais, diferentes fontes de vibração frequentemente compartilham faixas de frequência semelhantes. Motores, rolamentos, engrenagens, desalinhamentos, desbalanceamentos e ruídos estruturais podem produzir componentes espectrais sobrepostas, reduzindo a capacidade de técnicas isoladas identificarem claramente uma única origem de falha. Por essa razão, a combinação entre múltiplas características extraídas dos sinais e algoritmos não supervisionados tende a produzir resultados mais robustos do que a utilização de um único indicador.
 </p>
-### 11.1 Comparando com e sem DSP no Isolation Forest
+## 11.1 Comparando com e sem DSP no Isolation Forest
 
 | Método / Característica | PR-AUC com DSP | PR-AUC sem DSP |
 | --- | --- | --- |
 | Vibracao | 0.99 | 0.12 |
-| IsolationForest | 0.79 | 0.53 |
 | Corrente | 0.77 | 0.31 |
 | Tensao | 0.38 | 0.57 |
 | Temp | 0.21 | 0.30 |
