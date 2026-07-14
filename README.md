@@ -197,6 +197,10 @@ A metodologia apresentada pode ser aplicada em diversos setores industriais onde
 ## 11. Resultados
 
 <p align="justify">
+<p align="center">
+  <img src="https://github.com/rodfloripa/Projeto79/blob/main/fig2.png" > 
+</p>
+
 A análise da importância das características demonstra que nem todos os sensores contribuem igualmente para a detecção de anomalias. O atributo derivado da energia do sinal de vibração (Vibração RMS) apresentou a maior relevância, indicando que alterações na energia vibracional constituem o principal indicador das falhas simuladas.
 </p>
 
