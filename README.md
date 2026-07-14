@@ -199,7 +199,7 @@ A análise da importância das características demonstra que nem todos os senso
 |---------------|------------:|
 | Vibracao_RMS | **0.98** |
 | Corrente | **0.76** |
-| Tensao | **0.375** |
+| Tensao | **0.37** |
 | Temp | **0.21** |
 | Pressao | **0.17** |
 | Velocidade | **0.16** |
