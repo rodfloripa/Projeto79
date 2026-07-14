@@ -17,7 +17,12 @@ Por esse motivo, métodos não supervisionados representam uma alternativa basta
 <p align="justify">
 Outro desafio importante está relacionado à própria natureza dos sinais industriais. Vibração, corrente elétrica, temperatura, pressão e outras variáveis refletem simultaneamente diversos fenômenos físicos. Como consequência, diferentes componentes espectrais frequentemente se sobrepõem no domínio da frequência, dificultando a separação entre o comportamento normal da máquina, ruídos e assinaturas de falhas. Essa característica torna necessária a utilização de técnicas de Processamento Digital de Sinais capazes de extrair informações relevantes antes da etapa de aprendizado de máquina.
 </p>
-
+<p align="justify">
+Veja como as classes se sobrepõesm na frequência deixando a detecção difícil
+<p align="center">
+  <img src="https://github.com/rodfloripa/Projeto79/blob/main/fig1" >
+</p>
+</p>
 ---
 
 ## 2. Objetivos
