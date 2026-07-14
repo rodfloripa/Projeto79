@@ -204,7 +204,7 @@ A metodologia apresentada pode ser aplicada em diversos setores industriais onde
 A análise da importância das características demonstra que nem todos os sensores contribuem igualmente para a detecção de anomalias. O atributo derivado da energia do sinal de vibração (Vibração RMS) apresentou a maior relevância, indicando que alterações na energia vibracional constituem o principal indicador das falhas simuladas.
 </p>
 
-| Característica | Importância |
+| Característica | PR-AUC |
 |---------------|------------:|
 | Vibracao_RMS | **0.98** |
 | Corrente | **0.76** |
