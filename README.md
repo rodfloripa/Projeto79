@@ -20,7 +20,7 @@ Outro desafio importante está relacionado à própria natureza dos sinais indus
 <p align="justify">
 Veja como as classes se sobrepõesm na frequência deixando a detecção difícil
 <p align="center">
-  <img src="https://github.com/rodfloripa/Projeto79/blob/main/fig1" >
+  <img src="https://github.com/rodfloripa/Projeto79/blob/main/fig1.png" > 
 </p>
 </p>
 ---
