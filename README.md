@@ -197,14 +197,14 @@ A análise da importância das características demonstra que nem todos os senso
 
 | Característica | Importância |
 |---------------|------------:|
-| Vibracao_RMS | **0.988905** |
-| Corrente | **0.767461** |
-| Tensao | **0.375059** |
-| Temp | **0.212666** |
-| Pressao | **0.174792** |
-| Velocidade | **0.162872** |
-| Vibracao_Envelope | **0.047619** |
-| Vibracao_Kurt | **0.040096** |
+| Vibracao_RMS | **0.98** |
+| Corrente | **0.76** |
+| Tensao | **0.375** |
+| Temp | **0.21** |
+| Pressao | **0.17** |
+| Velocidade | **0.16** |
+| Vibracao_Envelope | **0.04** |
+| Vibracao_Kurt | **0.04** |
 
 <p align="justify">
 Observa-se que o RMS da vibração foi significativamente mais informativo do que as demais características, seguido pelas medições de corrente elétrica e tensão. Em contrapartida, atributos derivados do envelope de Hilbert e da curtose apresentaram menor contribuição para este conjunto de dados específico. Esse resultado evidencia que a eficácia de uma técnica de Processamento Digital de Sinais depende diretamente das características das falhas presentes e do comportamento espectral dos sinais analisados.
@@ -215,12 +215,6 @@ Também é importante destacar que, em ambientes industriais reais, diferentes f
 </p>
 
 ---
-
-## 12. Conclusão
-
-<p align="justify">
-Este projeto demonstra que a combinação entre Processamento Digital de Sinais e Machine Learning não supervisionado constitui uma solução eficiente para detecção de anomalias em ambientes industriais. Como bases rotuladas de falhas são escassas, caras de construir e frequentemente inexistentes, métodos como o Isolation Forest tornam-se particularmente relevantes por dispensarem exemplos previamente classificados durante o treinamento.
-</p>
 
 ## 12. Conclusão
 
